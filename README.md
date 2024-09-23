@@ -1,6 +1,8 @@
 # Gym App
 
+## Description 
 
+This application allows users to create a customizable gym routine based on what muscles they want to train and what goal they want to achieve. 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
